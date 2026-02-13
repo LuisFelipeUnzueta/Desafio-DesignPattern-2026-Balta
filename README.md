@@ -17,8 +17,6 @@ Minha principal fonte de conhecimento durante o desafio foi o eBook gratuito [Fu
 
 ### Padrões Criacionais
 
-- [Desafio 01 - Abstract Factory](https://github.com/b01tech/balta-desafio-carnacode-2026_1-abstract-factory.git)  ✅  
-- [Desafio 02 - Builder](https://github.com/b01tech/balta-desafio-carnacode-2026_2-builder.git) ✅  
-- [Desafio 03 - Factory Method](https://github.com/b01tech/balta-desafio-carnacode-2026_3-factory-method.git) ✅
-- [Desafio 04 - Prototype](https://github.com/b01tech/balta-desafio-carnacode-2026_4-prototype.git) ✅
-- [Desafio 05 - Singleton](https://github.com/b01tech/balta-desafio-carnacode-2026_5-singleton.git)  ✅  
+- [Desafio 01 - Abstract Factory](https://github.com/LuisFelipeUnzueta/balta-desafio-carnacode-2026_1-abstract-factory)  ✅  
+- [Desafio 02 - Builder](https://github.com/LuisFelipeUnzueta/balta-desafio-carnacode-2026_2-builder) ✅  
+- [Desafio 03 - Factory Method](https://github.com/LuisFelipeUnzueta/balta-desafio-carnacode-2026_3-factory-method) ✅
