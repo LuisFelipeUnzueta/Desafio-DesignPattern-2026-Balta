@@ -23,3 +23,4 @@ Minha principal fonte de conhecimento durante o desafio foi o eBook gratuito [Fu
 - [Desafio 04 - Prototype](https://github.com/LuisFelipeUnzueta/balta-desafio-carnacode-2026_4-prototype) ✅
 - [Desafio 05 - Singleton](https://github.com/LuisFelipeUnzueta/balta-desafio-carnacode-2026_5-singleton) ✅
 - [Desafio 06 - Adapter](https://github.com/LuisFelipeUnzueta/balta-desafio-carnacode-2026_6-adapter) ✅
+- [Desafio 07 - Bridge](https://github.com/LuisFelipeUnzueta/balta-desafio-carnacode-2026_7-bridge) ✅
