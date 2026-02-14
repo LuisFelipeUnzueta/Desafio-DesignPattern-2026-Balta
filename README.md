@@ -21,3 +21,5 @@ Minha principal fonte de conhecimento durante o desafio foi o eBook gratuito [Fu
 - [Desafio 02 - Builder](https://github.com/LuisFelipeUnzueta/balta-desafio-carnacode-2026_2-builder) ✅  
 - [Desafio 03 - Factory Method](https://github.com/LuisFelipeUnzueta/balta-desafio-carnacode-2026_3-factory-method) ✅
 - [Desafio 04 - Prototype](https://github.com/LuisFelipeUnzueta/balta-desafio-carnacode-2026_4-prototype) ✅
+- [Desafio 05 - Singleton](https://github.com/LuisFelipeUnzueta/balta-desafio-carnacode-2026_5-singleton) ✅
+- [Desafio 06 - Adapter](https://github.com/LuisFelipeUnzueta/balta-desafio-carnacode-2026_6-adapter) ✅
