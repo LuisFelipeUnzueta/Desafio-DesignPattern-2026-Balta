@@ -25,3 +25,4 @@ Minha principal fonte de conhecimento durante o desafio foi o eBook gratuito [Fu
 - [Desafio 06 - Adapter](https://github.com/LuisFelipeUnzueta/balta-desafio-carnacode-2026_6-adapter) ✅
 - [Desafio 07 - Bridge](https://github.com/LuisFelipeUnzueta/balta-desafio-carnacode-2026_7-bridge) ✅
 - [Desafio 08 - Composite](https://github.com/LuisFelipeUnzueta/balta-desafio-carnacode-2026_8-composite) ✅
+- [Desafio 09 - Decorator](https://github.com/LuisFelipeUnzueta/balta-desafio-carnacode-2026_9-decorator) ✅
