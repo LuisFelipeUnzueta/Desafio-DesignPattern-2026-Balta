@@ -1,15 +1,14 @@
-# Desafio CarnaCode 2026
+# Design Patterns: Desafio CarnaCode 2026
 
-Repositório central dos desafios do CarnaCode 2026, propostos pela equipe `balta-io`, referente a aplicação de Padrões de Projeto
+Este repositório reúne as soluções práticas para os 23 padrões de projeto (GoF), desenvolvidas durante o **CarnaCode 2026** (iniciativa balta.io).
 
-### Sobre
+## 🎯 Objetivo
+O foco principal foi aplicar Design Patterns em cenários reais para resolver problemas de acoplamento, promover a escalabilidade e garantir a manutenção eficiente de sistemas complexos.
 
-O desafio CarnaCode 2026 consiste em implementar todos os 23 padrões de projeto (Design Patterns) em cenários reais. 
-Durante os 23 desafios desta jornada, os participantes são submetidos ao aprendizado e prática na idetinficação de códigos não escaláveis e na solução de problemas utilizando padrões de mercado.
-
-### eBook - Fundamentos dos Design Patterns
-
-Minha principal fonte de conhecimento durante o desafio foi o eBook gratuito [Fundamentos dos Design Patterns](https://lp.balta.io/ebook-fundamentos-design-patterns).
+## 🛠️ Tecnologias e Conceitos
+- **Linguagem:** [C# / .NET]
+- **Conceitos:** SOLID, Dry, Clean Code e Padrões de Projeto (Criacionais, Estruturais e Comportamentais).
+- **Referência:** [Fundamentos dos Design Patterns (balta.io)](https://lp.balta.io/ebook-fundamentos-design-patterns)
 
 ## Repositórios com soluções
 
@@ -22,6 +21,8 @@ Minha principal fonte de conhecimento durante o desafio foi o eBook gratuito [Fu
 - [Desafio 03 - Factory Method](https://github.com/LuisFelipeUnzueta/balta-desafio-carnacode-2026_3-factory-method) ✅
 - [Desafio 04 - Prototype](https://github.com/LuisFelipeUnzueta/balta-desafio-carnacode-2026_4-prototype) ✅
 - [Desafio 05 - Singleton](https://github.com/LuisFelipeUnzueta/balta-desafio-carnacode-2026_5-singleton) ✅
+
+### Padrões Estruturais
 - [Desafio 06 - Adapter](https://github.com/LuisFelipeUnzueta/balta-desafio-carnacode-2026_6-adapter) ✅
 - [Desafio 07 - Bridge](https://github.com/LuisFelipeUnzueta/balta-desafio-carnacode-2026_7-bridge) ✅
 - [Desafio 08 - Composite](https://github.com/LuisFelipeUnzueta/balta-desafio-carnacode-2026_8-composite) ✅
@@ -29,6 +30,8 @@ Minha principal fonte de conhecimento durante o desafio foi o eBook gratuito [Fu
 - [Desafio 10 - Facade](https://github.com/LuisFelipeUnzueta/balta-desafio-carnacode-2026_10-facade) ✅
 - [Desafio 11 - Flyweight](https://github.com/LuisFelipeUnzueta/balta-desafio-carnacode-2026_11-flyweight) ✅
 - [Desafio 12 - Proxy](https://github.com/LuisFelipeUnzueta/balta-desafio-carnacode-2026_12-proxy) ✅
+
+### Padrões Comportamentais
 - [Desafio 13 - Chain of Responsability](https://github.com/LuisFelipeUnzueta/balta-desafio-carnacode-2026_13-chain-of-responsibility) ✅
 - [Desafio 14 - Command](https://github.com/LuisFelipeUnzueta/balta-desafio-carnacode-2026_14-command) ✅
 - [Desafio 15 - Interpreter](https://github.com/LuisFelipeUnzueta/balta-desafio-carnacode-2026_15-interpreter) ✅
